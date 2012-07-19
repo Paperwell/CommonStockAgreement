@@ -311,7 +311,7 @@ Spouse of Purchaser (if applicable) : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 **BILL OF SALE**
 
-[Purchaser Name] (the “Transferor”), for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, hereby sells, transfers, assigns and conveys to [Company Name], a Delaware corporation, and its successors and assigns (“Transferee”), all of the assets listed on Attachment A hereto (the “Assets”). 
+[Purchaser Name],(the “Transferor”), for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, hereby sells, transfers, assigns and conveys to [Company Name], a Delaware corporation, and its successors and assigns (“Transferee”), all of the assets listed on Attachment A hereto (the “Assets”). 
 
 Transferor hereby appoints Transferee the attorney in fact of Transferor, with full power of substitution on behalf of Transferee to demand and receive any of the Assets and to give receipts and releases for the same, to institute and prosecute in the name of Transferor, but for the benefit of Transferee, any legal or equitable proceedings Transferee deems proper in order to enforce any rights in the Assets and to defend or compromise any legal or equitable proceedings relating to the Assets as Transferee shall deem advisable.  Transferor hereby declares that the appointment made and powers granted hereby are coupled with an interest and shall be irrevocable by Transferor. 
 
